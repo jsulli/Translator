@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Translate</string>
+
+    <string name="translate">Translate!</string>
+    <string name="translate_hint">Enter text to translate</string>
+    <string name="translate_commit">Translate</string>
+    <string name="to">To</string>
+    <string name="pick_language">Choose Language</string>
+</resources>
