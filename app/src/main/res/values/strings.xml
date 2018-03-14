@@ -6,4 +6,5 @@
     <string name="translate_commit">Translate</string>
     <string name="to">To</string>
     <string name="pick_language">Choose Language</string>
+    <string name="history">History</string>
 </resources>
